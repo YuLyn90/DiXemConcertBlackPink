@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋<br><br>I am **YuLyn90**, a Software Developer 💻. I enjoy solving problems, learning new technologies, and exploring different aspects of software development. I have a strong interest in traveling, photography, and video games 🎮.<br><br>- 🔭 I'm currently working on **C#** and **Java** projects<br>- 🌱 I'm currently learning **React.js** and **Nodejs**<br>- 🤝 I, a student at Huflit University<br><br>Feel free to connect with me for:<br>- 🌏 Tech talks, traveling stories, or just to say hi!<br><br>📧 How to reach me: [lamman2k1@gmail.com]<br>
+# Hi there 👋<br><br>I am **YuLyn90**, a Software Developer 💻. I enjoy solving problems, learning new technologies, and exploring different aspects of software development. I have a strong interest in traveling, photography, and video games 🎮.<br><br>- 🔭 I'm currently working on **C#** and **Java** projects<br>- 🌱 I'm currently learning **React.js** and **Nodejs**<br>- 🤝 I'm a student at Huflit University<br><br>Feel free to connect with me for:<br>- 🌏 Tech talks, traveling stories, or just to say hi!<br><br>📧 How to reach me: [lamman2k1@gmail.com]<br>
 
 
 ## 🌐 Socials:
